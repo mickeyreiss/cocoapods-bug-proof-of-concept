@@ -1,0 +1,6 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+
+target 'EmptyPublicHeaderFilesPOC', :exclusive => true do
+  pod "EmptyPublicHeaderFilesPOC", :path => "../"
+end

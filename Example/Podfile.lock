@@ -1,0 +1,14 @@
+PODS:
+  - EmptyPublicHeaderFilesPOC (0.1.0)
+
+DEPENDENCIES:
+  - EmptyPublicHeaderFilesPOC (from `../`)
+
+EXTERNAL SOURCES:
+  EmptyPublicHeaderFilesPOC:
+    :path: ../
+
+SPEC CHECKSUMS:
+  EmptyPublicHeaderFilesPOC: c77d6ad6fb4f700fe88f46fa3cf96bafc400f16d
+
+COCOAPODS: 0.35.0
